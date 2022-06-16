@@ -24,7 +24,7 @@
     <td>
       <a href="https://github.com/rkeastwind/DealMusicList/releases/latest">[ Download ]</a><br />
       <a href="https://github.com/rkeastwind/DealMusicList/releases/latest" rel="nofollow" style="vertical-align: -webkit-baseline-middle;">
-        <img alt="GitHub release (latest by date)" src="https://img.shields.io/github/downloads/rkeastwind/DealMusicList/latest/total?color=%2300cc99"></a>
+        <img alt="GitHub release (latest by date)" src="https://img.shields.io/github/downloads/rkeastwind/DealMusicList/latest/total?color=Lime"></a>
     </td>
   </tr>
   <tr>
